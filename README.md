@@ -52,10 +52,10 @@ Install them using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ```bash
 jupyter notebook notebooks/pce_prediction.ipynb
-
+```
 
 ## 📜 License
 This project is licensed under the MIT License.
